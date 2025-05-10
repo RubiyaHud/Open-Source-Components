@@ -8,5 +8,11 @@
   - Create a button component (.jsx file) inside `components` folder and paste the code in it
   - Then use the button component where needed
 
+- ### Shadcn
+  - Go to the link:  [Shadcn](https://ui.shadcn.com/)
+  - Click `Get Started`
+  - Select a specific element (such as `button`)
+  - Open Gitbash terminal in vs code 
+  
 
 

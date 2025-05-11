@@ -14,5 +14,8 @@
   - Select a specific element (such as `button`)
   - Open Gitbash terminal in vs code 
   
+- ### daisyUI
+  - Go to the link:  [daisyUI](https://daisyui.com/)
+  - Click `How to use button`, 
 
 
